@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Counting Characters",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/2_CountingCharacters/bin/Debug/netcoreapp2.1/2_CountingCharacters.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/2_CountingCharacters",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Hello",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/1_Hello/bin/Debug/netcoreapp2.1/Hello.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/1_Hello",
+            "console": "integratedTerminal",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": "Printing Quotes",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/3_PrintingQuotes/bin/Debug/netcoreapp2.1/3_PrintingQuotes.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/3_PrintingQuotes",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Mad Lib",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/4_MadLib/bin/Debug/netcoreapp2.1/4_MadLib.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/4_MadLib",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Simple Math",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/5_SimpleMath/bin/Debug/netcoreapp2.1/5_SimpleMath.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/5_SimpleMath",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+    ]
+}

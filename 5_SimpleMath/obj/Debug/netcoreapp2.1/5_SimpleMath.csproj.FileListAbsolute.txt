@@ -1,0 +1,11 @@
+/Users/lera/Projects/Exercises/5_SimpleMath/bin/Debug/netcoreapp2.1/5_SimpleMath.deps.json
+/Users/lera/Projects/Exercises/5_SimpleMath/bin/Debug/netcoreapp2.1/5_SimpleMath.runtimeconfig.json
+/Users/lera/Projects/Exercises/5_SimpleMath/bin/Debug/netcoreapp2.1/5_SimpleMath.runtimeconfig.dev.json
+/Users/lera/Projects/Exercises/5_SimpleMath/bin/Debug/netcoreapp2.1/5_SimpleMath.dll
+/Users/lera/Projects/Exercises/5_SimpleMath/bin/Debug/netcoreapp2.1/5_SimpleMath.pdb
+/Users/lera/Projects/Exercises/5_SimpleMath/obj/Debug/netcoreapp2.1/5_SimpleMath.csprojAssemblyReference.cache
+/Users/lera/Projects/Exercises/5_SimpleMath/obj/Debug/netcoreapp2.1/5_SimpleMath.csproj.CoreCompileInputs.cache
+/Users/lera/Projects/Exercises/5_SimpleMath/obj/Debug/netcoreapp2.1/5_SimpleMath.AssemblyInfoInputs.cache
+/Users/lera/Projects/Exercises/5_SimpleMath/obj/Debug/netcoreapp2.1/5_SimpleMath.AssemblyInfo.cs
+/Users/lera/Projects/Exercises/5_SimpleMath/obj/Debug/netcoreapp2.1/5_SimpleMath.dll
+/Users/lera/Projects/Exercises/5_SimpleMath/obj/Debug/netcoreapp2.1/5_SimpleMath.pdb

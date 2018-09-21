@@ -1,0 +1,11 @@
+/Users/lera/Projects/Exercises/4_MadLib/bin/Debug/netcoreapp2.1/4_MadLib.deps.json
+/Users/lera/Projects/Exercises/4_MadLib/bin/Debug/netcoreapp2.1/4_MadLib.runtimeconfig.json
+/Users/lera/Projects/Exercises/4_MadLib/bin/Debug/netcoreapp2.1/4_MadLib.runtimeconfig.dev.json
+/Users/lera/Projects/Exercises/4_MadLib/bin/Debug/netcoreapp2.1/4_MadLib.dll
+/Users/lera/Projects/Exercises/4_MadLib/bin/Debug/netcoreapp2.1/4_MadLib.pdb
+/Users/lera/Projects/Exercises/4_MadLib/obj/Debug/netcoreapp2.1/4_MadLib.csprojAssemblyReference.cache
+/Users/lera/Projects/Exercises/4_MadLib/obj/Debug/netcoreapp2.1/4_MadLib.csproj.CoreCompileInputs.cache
+/Users/lera/Projects/Exercises/4_MadLib/obj/Debug/netcoreapp2.1/4_MadLib.AssemblyInfoInputs.cache
+/Users/lera/Projects/Exercises/4_MadLib/obj/Debug/netcoreapp2.1/4_MadLib.AssemblyInfo.cs
+/Users/lera/Projects/Exercises/4_MadLib/obj/Debug/netcoreapp2.1/4_MadLib.dll
+/Users/lera/Projects/Exercises/4_MadLib/obj/Debug/netcoreapp2.1/4_MadLib.pdb
