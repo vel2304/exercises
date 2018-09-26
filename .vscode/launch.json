@@ -60,6 +60,18 @@
             "cwd": "${workspaceFolder}/5_SimpleMath",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Area Of A Room",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/7_AreaOfRoom/bin/Debug/netcoreapp2.1/7_AreaOfRoom.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/7_AreaOfRoom",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
+        
     ]
 }
