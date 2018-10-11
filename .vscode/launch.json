@@ -71,6 +71,17 @@
             "cwd": "${workspaceFolder}/7_AreaOfRoom",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Pizza Party",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/8_PizzaParty/bin/Debug/netcoreapp2.1/8_PizzaParty.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/8_PizzaParty",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
