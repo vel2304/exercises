@@ -82,6 +82,17 @@
             "cwd": "${workspaceFolder}/8_PizzaParty",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Paint Calculator",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/9_PaintCalculator/bin/Debug/netcoreapp2.1/9_PaintCalculator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/9_PaintCalculator",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
