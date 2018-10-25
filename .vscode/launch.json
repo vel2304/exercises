@@ -93,6 +93,17 @@
             "cwd": "${workspaceFolder}/9_PaintCalculator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Self Checkout",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/10_SelfCheckout/bin/Debug/netcoreapp2.1/10_SelfCheckout.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/10_SelfCheckout",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
