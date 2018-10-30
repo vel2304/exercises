@@ -4,7 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        
         {
             "name": "Counting Characters",
             "type": "coreclr",
@@ -102,6 +102,28 @@
             "program": "${workspaceFolder}/10_SelfCheckout/bin/Debug/netcoreapp2.1/10_SelfCheckout.dll",
             "args": [],
             "cwd": "${workspaceFolder}/10_SelfCheckout",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Currency Conversion",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/11_CurrencyConversion/bin/Debug/netcoreapp2.1/11_CurrencyConversion.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/11_CurrencyConversion",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Simple Interest",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/12_SimpleInterest/bin/Debug/netcoreapp2.1/12_SimpleInterest.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/12_SimpleInterest",
             "stopAtEntry": false,
             "console": "integratedTerminal"
         }
