@@ -126,6 +126,17 @@
             "cwd": "${workspaceFolder}/12_SimpleInterest",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Compound Interest",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/13_CompoundInterest/bin/Debug/netcoreapp2.1/13_CompoundInterest.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/13_CompoundInterest",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
