@@ -44,7 +44,7 @@ namespace _13_CompoundInterest
             decimal power = numberCompaunded * numberOfYears;
             decimal amountInvestment = principalAmount * (decimal)Math.Pow((double)(1 + rate / numberCompaunded), (double)power);
 
-            return Decimal.Ceiling(amountInvestment * 100) / 100;
+            return Decimal.Ceiling(amountInvestment * 100) / 100;  
         }
         static decimal GetUserInput()
         {

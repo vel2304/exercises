@@ -137,6 +137,17 @@
             "cwd": "${workspaceFolder}/13_CompoundInterest",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Tax Calculator",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/14_TaxCalculator/bin/Debug/netcoreapp2.1/14_TaxCalculator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/14_TaxCalculator",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
