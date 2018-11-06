@@ -148,6 +148,17 @@
             "cwd": "${workspaceFolder}/14_TaxCalculator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Password Validation",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/15_PasswordValidation/bin/Debug/netcoreapp2.1/15_PasswordValidation.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/15_PasswordValidation",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
