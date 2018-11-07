@@ -159,6 +159,17 @@
             "cwd": "${workspaceFolder}/15_PasswordValidation",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Legal Driving Age",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/16_LegalDrivingAge/bin/Debug/netcoreapp2.1/16_LegalDrivingAge.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/16_LegalDrivingAge",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
