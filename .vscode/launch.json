@@ -170,6 +170,17 @@
             "cwd": "${workspaceFolder}/16_LegalDrivingAge",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Blood Alcohol Calculator",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/17_BloodAlcoholCalculator/bin/Debug/netcoreapp2.1/17_BloodAlcoholCalculator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/17_BloodAlcoholCalculator",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_PasswordValidation", "15
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_LegalDrivingAge", "16_LegalDrivingAge\16_LegalDrivingAge.csproj", "{09270884-F77C-46BD-A4AC-26C780B1A030}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_BloodAlcoholCalculator", "17_BloodAlcoholCalculator\17_BloodAlcoholCalculator.csproj", "{F54726CE-944A-4643-B42C-EBA1D7748CEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -226,5 +228,17 @@ Global
 		{09270884-F77C-46BD-A4AC-26C780B1A030}.Release|x64.Build.0 = Release|Any CPU
 		{09270884-F77C-46BD-A4AC-26C780B1A030}.Release|x86.ActiveCfg = Release|Any CPU
 		{09270884-F77C-46BD-A4AC-26C780B1A030}.Release|x86.Build.0 = Release|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Debug|x64.Build.0 = Debug|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Debug|x86.Build.0 = Debug|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Release|x64.ActiveCfg = Release|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Release|x64.Build.0 = Release|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Release|x86.ActiveCfg = Release|Any CPU
+		{F54726CE-944A-4643-B42C-EBA1D7748CEB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
