@@ -181,6 +181,17 @@
             "cwd": "${workspaceFolder}/17_BloodAlcoholCalculator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Temperature converter",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/18_TemperatureConverter/bin/Debug/netcoreapp2.1/18_TemperatureConverter.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/18_TemperatureConverter",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
