@@ -192,7 +192,8 @@
             "cwd": "${workspaceFolder}/18_TemperatureConverter",
             "stopAtEntry": false,
             "console": "integratedTerminal"
-        }{
+        },
+        {
             "name": "Kelvin",
             "type": "coreclr",
             "request": "launch",
@@ -200,6 +201,17 @@
             "program": "${workspaceFolder}/18_WithKelvin/bin/Debug/netcoreapp2.1/18_WithKelvin.dll",
             "args": [],
             "cwd": "${workspaceFolder}/18_WithKelvin",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "BMI",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/19_BmiCalculator/bin/Debug/netcoreapp2.1/19_BmiCalculator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/19_BmiCalculator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
         }
