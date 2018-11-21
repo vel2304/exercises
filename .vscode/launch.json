@@ -214,6 +214,17 @@
             "cwd": "${workspaceFolder}/19_BmiCalculator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Multistate Sales Tax",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/20_MultistateSalesTaxCalculator/bin/Debug/netcoreapp2.1/20_MultistateSalesTaxCalculator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/20_MultistateSalesTaxCalculator",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
