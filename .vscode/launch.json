@@ -225,6 +225,17 @@
             "cwd": "${workspaceFolder}/20_MultistateSalesTaxCalculator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Numbers to Names",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/21_NumbersToNames/bin/Debug/netcoreapp2.1/21_NumbersToNames.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/21_NumbersToNames",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
