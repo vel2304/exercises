@@ -236,6 +236,17 @@
             "cwd": "${workspaceFolder}/21_NumbersToNames",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Comparing Numbers",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/22_ComparingNumbers/bin/Debug/netcoreapp2.1/22_ComparingNumbers.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/22_ComparingNumbers",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]

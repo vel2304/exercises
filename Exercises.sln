@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_MultistateSalesTaxCalcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_NumbersToNames", "21_NumbersToNames\21_NumbersToNames.csproj", "{9E1EB551-CBF5-4566-B5B6-9A7A8561ADC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_ComparingNumbers", "22_ComparingNumbers\22_ComparingNumbers.csproj", "{08F7E22A-B593-47C9-AD35-A0BD9C104B30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -310,5 +312,17 @@ Global
 		{9E1EB551-CBF5-4566-B5B6-9A7A8561ADC6}.Release|x64.Build.0 = Release|Any CPU
 		{9E1EB551-CBF5-4566-B5B6-9A7A8561ADC6}.Release|x86.ActiveCfg = Release|Any CPU
 		{9E1EB551-CBF5-4566-B5B6-9A7A8561ADC6}.Release|x86.Build.0 = Release|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Debug|x64.Build.0 = Debug|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Debug|x86.Build.0 = Debug|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Release|x64.ActiveCfg = Release|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Release|x64.Build.0 = Release|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Release|x86.ActiveCfg = Release|Any CPU
+		{08F7E22A-B593-47C9-AD35-A0BD9C104B30}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
