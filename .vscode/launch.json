@@ -247,6 +247,17 @@
             "cwd": "${workspaceFolder}/22_ComparingNumbers",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Troubleshooting Car Issues",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/23_TroubleshootingCarIssues/bin/Debug/netcoreapp2.1/23_TroubleshootingCarIssues.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/23_TroubleshootingCarIssues",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
