@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_ComparingNumbers", "22_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_TroubleshootingCarIssues", "23_TroubleshootingCarIssues\23_TroubleshootingCarIssues.csproj", "{1C854697-5B2F-4D0F-A8E6-B7E1D3E1D91F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_AnagramChecker", "24_AnagramChecker\24_AnagramChecker.csproj", "{354307E3-B9A7-422C-8718-D2117066B771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -338,5 +340,17 @@ Global
 		{1C854697-5B2F-4D0F-A8E6-B7E1D3E1D91F}.Release|x64.Build.0 = Release|Any CPU
 		{1C854697-5B2F-4D0F-A8E6-B7E1D3E1D91F}.Release|x86.ActiveCfg = Release|Any CPU
 		{1C854697-5B2F-4D0F-A8E6-B7E1D3E1D91F}.Release|x86.Build.0 = Release|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Debug|x64.Build.0 = Debug|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Debug|x86.Build.0 = Debug|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Release|x64.ActiveCfg = Release|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Release|x64.Build.0 = Release|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Release|x86.ActiveCfg = Release|Any CPU
+		{354307E3-B9A7-422C-8718-D2117066B771}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

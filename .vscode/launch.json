@@ -258,6 +258,17 @@
             "cwd": "${workspaceFolder}/23_TroubleshootingCarIssues",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Anagram Checker",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/24_AnagramChecker/bin/Debug/netcoreapp2.1/24_AnagramChecker.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/24_AnagramChecker",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
