@@ -61,7 +61,7 @@ namespace _22_ComparingNumbers
         }
 
         //Task 1
-        /* static int GetUserInput()
+        /* static int GetUserInput() 
         {
             string input = Console.ReadLine();
             while (!int.TryParse(input, out int validNumer))

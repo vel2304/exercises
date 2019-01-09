@@ -269,6 +269,39 @@
             "cwd": "${workspaceFolder}/24_AnagramChecker",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Password Strength",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/25_PasswordStrength/bin/Debug/netcoreapp2.1/25_PasswordStrength.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/25_PasswordStrength",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Months to pay of",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/26_MonthsToPayOfaCreditCard/bin/Debug/netcoreapp2.1/26_MonthsToPayOfaCreditCard.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/26_MonthsToPayOfaCreditCard",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Validating Inputs",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/27_ValidatingInputs/bin/Debug/netcoreapp2.1/27_ValidatingInputs.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/27_ValidatingInputs",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
