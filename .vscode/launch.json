@@ -302,6 +302,17 @@
             "cwd": "${workspaceFolder}/27_ValidatingInputs",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Multiplication Table",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/30_MultiplicationTable/bin/Debug/netcoreapp2.1/30_MultiplicationTable.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/30_MultiplicationTable",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]

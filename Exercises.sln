@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_MonthsToPayOfaCreditCard
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_ValidatingInputs", "27_ValidatingInputs\27_ValidatingInputs.csproj", "{8C1D21E5-3BF1-4634-8A41-ECD3C88E8A00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_MultiplicationTable", "30_MultiplicationTable\30_MultiplicationTable.csproj", "{AB7299B6-82F2-417E-97E7-12A5E67F0405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -394,5 +396,17 @@ Global
 		{8C1D21E5-3BF1-4634-8A41-ECD3C88E8A00}.Release|x64.Build.0 = Release|Any CPU
 		{8C1D21E5-3BF1-4634-8A41-ECD3C88E8A00}.Release|x86.ActiveCfg = Release|Any CPU
 		{8C1D21E5-3BF1-4634-8A41-ECD3C88E8A00}.Release|x86.Build.0 = Release|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Debug|x64.Build.0 = Debug|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Debug|x86.Build.0 = Debug|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x64.ActiveCfg = Release|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x64.Build.0 = Release|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x86.ActiveCfg = Release|Any CPU
+		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
