@@ -324,6 +324,17 @@
             "cwd": "${workspaceFolder}/33_Magic_8_ball",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Employee Removal",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/34_EmployeeListRemoval/bin/Debug/netcoreapp2.1/34_EmployeeListRemoval.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/34_EmployeeListRemoval",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
