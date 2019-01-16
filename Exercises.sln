@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_ValidatingInputs", "27_V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_MultiplicationTable", "30_MultiplicationTable\30_MultiplicationTable.csproj", "{AB7299B6-82F2-417E-97E7-12A5E67F0405}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_Magic_8_ball", "33_Magic_8_ball\33_Magic_8_ball.csproj", "{A46E083A-73D0-489F-9F36-88FD9B8C8A35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -408,5 +410,17 @@ Global
 		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x64.Build.0 = Release|Any CPU
 		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x86.ActiveCfg = Release|Any CPU
 		{AB7299B6-82F2-417E-97E7-12A5E67F0405}.Release|x86.Build.0 = Release|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Debug|x64.Build.0 = Debug|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Debug|x86.Build.0 = Debug|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Release|x64.ActiveCfg = Release|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Release|x64.Build.0 = Release|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Release|x86.ActiveCfg = Release|Any CPU
+		{A46E083A-73D0-489F-9F36-88FD9B8C8A35}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

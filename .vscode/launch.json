@@ -313,6 +313,17 @@
             "cwd": "${workspaceFolder}/30_MultiplicationTable",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Magic 8 ball",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/33_Magic_8_ball/bin/Debug/netcoreapp2.1/33_Magic_8_ball.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/33_Magic_8_ball",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
