@@ -335,6 +335,17 @@
             "cwd": "${workspaceFolder}/34_EmployeeListRemoval",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Picking A Winner",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/35_PickingAWinner/bin/Debug/netcoreapp2.1/35_PickingAWinner.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/35_PickingAWinner",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
