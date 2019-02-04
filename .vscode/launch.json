@@ -346,6 +346,17 @@
             "cwd": "${workspaceFolder}/35_PickingAWinner",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Password Generator",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/37_PasswordGenerator/bin/Debug/netcoreapp2.1/37_PasswordGenerator.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/37_PasswordGenerator",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]

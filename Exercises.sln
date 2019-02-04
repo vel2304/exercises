@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_EmployeeListRemoval", "3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_PickingAWinner", "35_PickingAWinner\35_PickingAWinner.csproj", "{4C468CDA-52E7-4DBA-98AE-5F52D01D3364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_PasswordGenerator", "37_PasswordGenerator\37_PasswordGenerator.csproj", "{FA286DB6-9CD5-4B78-9965-155D68C7492F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -450,5 +452,17 @@ Global
 		{4C468CDA-52E7-4DBA-98AE-5F52D01D3364}.Release|x64.Build.0 = Release|Any CPU
 		{4C468CDA-52E7-4DBA-98AE-5F52D01D3364}.Release|x86.ActiveCfg = Release|Any CPU
 		{4C468CDA-52E7-4DBA-98AE-5F52D01D3364}.Release|x86.Build.0 = Release|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Debug|x64.Build.0 = Debug|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x64.ActiveCfg = Release|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x64.Build.0 = Release|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
