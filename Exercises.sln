@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_PickingAWinner", "35_Pic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_PasswordGenerator", "37_PasswordGenerator\37_PasswordGenerator.csproj", "{FA286DB6-9CD5-4B78-9965-155D68C7492F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_FilteringRecords", "40_FilteringRecords\40_FilteringRecords.csproj", "{960E321C-5398-4237-8AE7-34AAD9236279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -464,5 +466,17 @@ Global
 		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x64.Build.0 = Release|Any CPU
 		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x86.ActiveCfg = Release|Any CPU
 		{FA286DB6-9CD5-4B78-9965-155D68C7492F}.Release|x86.Build.0 = Release|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Debug|x64.Build.0 = Debug|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Debug|x86.Build.0 = Debug|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Release|x64.ActiveCfg = Release|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Release|x64.Build.0 = Release|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Release|x86.ActiveCfg = Release|Any CPU
+		{960E321C-5398-4237-8AE7-34AAD9236279}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

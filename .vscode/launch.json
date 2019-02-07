@@ -357,6 +357,17 @@
             "cwd": "${workspaceFolder}/37_PasswordGenerator",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Filtering Records",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/40_FilteringRecords/bin/Debug/netcoreapp2.1/40_FilteringRecords.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/40_FilteringRecords",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
         }
         
     ]
